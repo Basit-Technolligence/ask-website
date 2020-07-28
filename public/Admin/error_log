@@ -1,0 +1,5 @@
+[12-May-2019 13:09:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/askedupk/public_html/Admin/deleteslideshows.php on line 6
+[15-May-2019 08:18:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/askedupk/public_html/Admin/deletenoti.php on line 6
+[15-May-2019 08:23:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/askedupk/public_html/Admin/deletenews.php on line 6
+[15-May-2019 08:41:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/askedupk/public_html/Admin/deletefaculty.php on line 6
+[15-May-2019 08:44:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/askedupk/public_html/Admin/deletesection.php on line 6

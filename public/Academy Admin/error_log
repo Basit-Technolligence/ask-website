@@ -1,0 +1,8 @@
+[16-May-2019 13:40:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/askedupk/public_html/Academy Admin/index.php:18) in /home/askedupk/public_html/Academy Admin/index.php on line 19
+[16-May-2019 13:40:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/askedupk/public_html/Academy Admin/index.php:18) in /home/askedupk/public_html/Academy Admin/index.php on line 20
+[16-May-2019 13:40:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/askedupk/public_html/Academy Admin/index.php:18) in /home/askedupk/public_html/Academy Admin/index.php on line 19
+[16-May-2019 13:40:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/askedupk/public_html/Academy Admin/index.php:18) in /home/askedupk/public_html/Academy Admin/index.php on line 20
+[16-May-2019 13:51:59 UTC] PHP Warning:  POST Content-Length of 2097706 bytes exceeds the limit of 2097152 bytes in Unknown on line 0
+[16-May-2019 13:52:22 UTC] PHP Warning:  POST Content-Length of 2097706 bytes exceeds the limit of 2097152 bytes in Unknown on line 0
+[16-May-2019 13:53:19 UTC] PHP Warning:  POST Content-Length of 2097717 bytes exceeds the limit of 2097152 bytes in Unknown on line 0
+[16-May-2019 13:54:03 UTC] PHP Warning:  POST Content-Length of 2097655 bytes exceeds the limit of 2097152 bytes in Unknown on line 0
